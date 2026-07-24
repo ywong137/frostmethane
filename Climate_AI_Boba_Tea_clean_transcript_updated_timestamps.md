@@ -5,8 +5,6 @@
 - **Source:** X Space `1qKVmmPywQDxB`
 - **Participants:** Yishan Wong, Olya Irzak, and Sunny Han
 - **Edited recording length:** approximately 1:03:56
-- **Opening removed:** the first 16:52 of the original recording, consisting of dead air, connection trouble, and account setup
-- **Timestamp basis:** every timestamp below refers to the cleaned audio file, not the original X recording
 
 This is an editorial transcript, not a verbatim legal transcript. False starts, repeated words, filler, and inconsequential crosstalk have been removed. Some damaged or unclear phrases have been paraphrased from context. The aim is to preserve what the speakers were communicating in readable, natural dialogue.
 
@@ -26,8 +24,6 @@ This is an editorial transcript, not a verbatim legal transcript. False starts, 
 - **At 59:51 — Frost reports about 13,000 tonnes of cumulative CO₂-equivalent abatement.**
 - **At 62:13 — Frost measures flow, gas composition, pressure, and temperature every ten minutes.**
 - **At 62:30 — The installed equipment eliminated roughly four tonnes of CO₂-equivalent during this conversation.**
-
-The numerical statements above are claims made during the Space; they have not been independently verified here.
 
 ## Edited dialogue
 
