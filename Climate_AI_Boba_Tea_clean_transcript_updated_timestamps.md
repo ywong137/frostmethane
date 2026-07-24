@@ -1,4 +1,4 @@
-# Climate, AI, Boba tea
+# Climate, Methane, AI, Boba tea
 
 ## Edited transcript and updated timestamps
 
